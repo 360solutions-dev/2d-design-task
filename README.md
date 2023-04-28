@@ -16,5 +16,5 @@ Once you are done with the task, you can zip the designs and send it to us at `r
 
 ## Note: 
 * We will review the designs
-* Once you are hired, we will pay you **3k (PKR)** for this effort in your first salary.
+* Once you are **hired**, we will pay you **3k (PKR)** for this effort in your first salary.
 *  **The sample design we attached is only valid for this task, it's not available for any of your personal / professional use.**
