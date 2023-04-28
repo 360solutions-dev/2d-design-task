@@ -2,6 +2,8 @@
 
 The purpose of this task is to validate your skills level in 2D designs. Following is the sample design that we want you to **design** and do **slicing** as well for this.
 
+It shoudn't be 100% like the sample, designing it with your thinking and making changes to improve  the design is a **Plus** point.
+
 **This is a paid task.**
 
 <br>
