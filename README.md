@@ -9,7 +9,8 @@ The purpose of this task is to validate your skills level in 2D designs. Followi
 ![Alt text](./dressup.jpg?raw=true "Dressup Design Sample")
 
 <br>
-Once you are done with the task, you can zip the designs and send it to us at rizwanbutt314@gmail.com
+
+Once you are done with the task, you can zip the designs and send it to us at `rizwanbutt314@gmail.com`
 
 <br> 
 
